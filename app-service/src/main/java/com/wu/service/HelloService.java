@@ -16,6 +16,6 @@ public class HelloService {
         System.out.println("aaa");
     }
     public void test(){
-        System.out.println("ttttt");
+        System.out.println("test server");
     }
 }
