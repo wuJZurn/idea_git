@@ -11,4 +11,8 @@ public class HelloService {
         HelloDao helloDao=new HelloDao();
         return helloDao.sayHello(name);
     }
+
+    public void hello(){
+        System.out.println("aaa");
+    }
 }
